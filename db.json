@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "password": "password123",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "username": "jane_doe",
+      "password": "password456",
+      "email": "jane@example.com"
+    },
+    {
+      "id": "0023",
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": "f8a9",
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": "33f5",
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": "f48e",
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": "da3b",
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": "48ab",
+      "username": "john_doe",
+      "password": "password123"
+    }
+  ],
+  "products": [
+    {
+      "name": "Город11",
+      "price": "90000",
+      "description": "asdad",
+      "category": "1",
+      "image": {
+        "0": {}
+      },
+      "id": "71d8"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Category 1"
+    },
+    {
+      "id": "2",
+      "name": "Category 2"
+    }
+  ]
+}
